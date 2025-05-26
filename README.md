@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Bo Redfearn
 
-🧪 Hardware Validation Engineer | 🛠️ Automation Specialist | 🧠 AI Tinkerer  
+Hardware Validation Engineer | Automation Specialist | AI Tinkerer  
 Passionate about testing culture, scalable systems, and blending hardware with smart software.
 
 ---
 
-## 🔧 What I Work On
+## What I Work On
 
 - **Sensor & Display Validation**  
   Testing LiDAR, cameras, and displays across high-performance platforms  
@@ -19,9 +19,9 @@ Passionate about testing culture, scalable systems, and blending hardware with s
 
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
 
-### 📊 [Google Search Sentiment Analyzer](https://github.com/yourusername/google-search-sentiment-analyzer)
+### [Google Search Sentiment Analyzer](https://github.com/yourusername/google-search-sentiment-analyzer)
 > Fetch Google results and analyze public sentiment using Transformers
 
 - Google Custom Search API + Hugging Face
@@ -30,16 +30,16 @@ Passionate about testing culture, scalable systems, and blending hardware with s
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Bo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
-- 🧪 Always open to talk sensors, lab strategy, and engineering culture
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
+- Always open to talk sensors, lab strategy, and engineering culture
 
 ---
 
