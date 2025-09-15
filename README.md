@@ -19,17 +19,6 @@ Passionate about testing culture, scalable systems, and blending hardware with s
 
 ---
 
-## Featured Projects
-
-### [Google Search Sentiment Analyzer](https://github.com/bochristopher/google-search-sentiment-analyzer)
-> Fetch Google results and analyze public sentiment using Transformers
-
-- Google Custom Search API + Hugging Face
-- Filters high-confidence results for deeper signal
-- Built with: `requests`, `transformers`, `Python 3.8+`
-
----
-
 ## GitHub Stats
 
 ![Bo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bochristopher&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
