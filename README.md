@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Bo Redfearn
+#  Hey, I'm Bo Redfearn
 
 Hardware Validation Engineer | Automation Specialist | AI Tinkerer  
 Passionate about testing culture, scalable systems, and blending hardware with smart software.
